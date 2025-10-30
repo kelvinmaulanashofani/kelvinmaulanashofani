@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Kelvin Maulana](img/github-header-banner.png)
 <!--
 **kelvinmaulanashofani/kelvinmaulanashofani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
