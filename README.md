@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kelvin Maulana Shofani</h1>
-<h3 align="center">🚀 Passionate Developer | 💡 Lifelong Learner | 💻 Tech Enthusiast</h3>
+<h3 align="center">🚀 Network Engineer | 💻 IT Enthusiast</h3>
 
 ---
 
