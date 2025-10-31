@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvinmaulanashofani&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kelvinmaulanashofani&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kelvin-maulana-shofani" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:kelvinmaulanas98@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://instagram.com/@kelvinms__" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
