@@ -21,7 +21,7 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/kelvin-maulana-shofani" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:kelvinmaulanas98@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/@kelvinms__" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
