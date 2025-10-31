@@ -12,10 +12,13 @@
 - ⚡ Fun fact: *I enjoy experimenting with network labs and simulation tools like Cisco Packet Tracer!*  
 
 ---
-
+### My Skills
+---
 ### 🧰 Tools & Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cisco,linux,ubuntu,bash,wireshark,git,github,vscode" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,nodejs,docker,c,vim" />
+  </a>
 </p>
 
 ---
