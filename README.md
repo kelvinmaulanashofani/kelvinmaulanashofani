@@ -20,17 +20,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvinmaulanashofani&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kelvinmaulanashofani&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/kelvin-maulana-shofani" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
